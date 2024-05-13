@@ -25,6 +25,10 @@ The script uses the `psutil` library to fetch all running processes and identifi
 
 This script modifies system processes, so use it with caution. Make sure to back up your data before running it.
 
+## Credits
+
+- <a href="https://www.flaticon.com/free-icons/damage" title="damage icons">Icon created by Iconjam - Flaticon</a>
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
